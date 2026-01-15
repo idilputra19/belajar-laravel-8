@@ -22,7 +22,7 @@
             </p>
     <p class="card-text"> {{ $posts[0]->excerpt }}</p>
 
-    <a href="/posts/{{ $posts[0]->slug }}" class="text-decoration-none" btn-primary>Read More..</a>
+    <a href="/posts/{{ $posts[0]->slug }}" class="text-decoration-none" btn-primary >Read More..</a>
     <p class="card-text"><small class="text-body-secondary"></small> </p>
   </div>
 </div>
