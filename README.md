@@ -13,7 +13,7 @@
 
 <hr>
 
-# 🎓 Sistem Penerimaan Mahasiswa Baru (SPMB) 2026
+# 🎓 Sistem Penerimaan Murid Baru (SPMB) 2026
 
 > **Platform pendaftaran digital yang modern, responsif, dan efisien.**
 
