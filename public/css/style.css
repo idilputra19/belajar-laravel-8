@@ -1,0 +1,49 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+/* Heading Styles */
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    color: #007bff;
+}
+
+/* Paragraph Styles */
+p {
+    margin-bottom: 1em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    h1 {
+        font-size: 1.5em;
+    }
+}
+
+/* Link Styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+/* Additional Styles Can Be Added Below */
+
+
